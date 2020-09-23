@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (c) 2016 Marien Raat <marienraat@riseup.net>
+ * SPDX-License-Identifier: GPL3.0+
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingStart="@dimen/preference_padding_start"
+    android:paddingLeft="@dimen/preference_padding_start"
+    android:paddingEnd="@dimen/preference_padding_end"
+    android:paddingRight="@dimen/preference_padding_end"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+  <androidx.appcompat.widget.AppCompatSpinner
+      android:id="@+id/profile_spinner"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_weight="1" />
+
+  <Button
+      android:id="@+id/profile_action_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/button_add_filter"
+      android:textColor="@color/button"
+      style="?attr/borderlessButtonStyle" />
+
+</LinearLayout>

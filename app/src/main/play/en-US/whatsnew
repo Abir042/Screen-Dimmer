@@ -1,0 +1,11 @@
+### Added
+- Filter toggles when the schedule is updated
+
+### Changed
+- Update translations
+
+### Fixed
+- Fix alignment in on/off switch at the top of schedule/exclude screens
+
+### Removed
+- Remove prompt to rate the app from the Google Play version

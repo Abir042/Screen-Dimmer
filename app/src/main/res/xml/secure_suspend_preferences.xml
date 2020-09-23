@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (c) 2016  Marien Raat <marienraat@riseup.net>
+ * Copyright (c) 2017  Stephen Michel <s@smichel.me>
+ * SPDX-License-Identifier: GPL3.0+
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="@string/pref_key_secure_suspend"
+        android:layout="@layout/switch_bar"
+        android:defaultValue="false" />
+    <Preference
+        android:layout="@layout/preference_summary"
+        android:summary="@string/pref_summary_secure_suspend"
+        android:selectable="false" />
+</PreferenceScreen>
