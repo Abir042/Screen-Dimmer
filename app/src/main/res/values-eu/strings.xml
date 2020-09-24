@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="app_name">Red Moon</string>
+<resources><string name="app_name">Screen Dimmer</string>
 
-    <string name="activity_main">Red Moon</string>
-    <string name="activity_shortcut">Aktibatu / Desaktibatu Red Moon</string>
+    <string name="activity_main">Screen Dimmer</string>
+    <string name="activity_shortcut">Aktibatu / Desaktibatu Screen Dimmer</string>
     <string name="activity_intro">Sarrera</string>
-    <string name="activity_about">Red Moon-i buruz</string>
+    <string name="activity_about">Screen Dimmer-i buruz</string>
     <string name="activity_schedule">Ordutegia</string>
     <string name="activity_timer">Erabilera orduak</string>
 
@@ -64,8 +64,8 @@
     <string name="pref_summary_email_developer">Gu kontaktatzeko beste modu bat</string>
     <string name="pref_title_translators">Lagundu itzultzen</string>
     <string name="pref_title_integration">Beste aplikazio batekin integrazioa</string>
-    <string name="toast_warning_install">Red Moon martxan dagoen bitartean ezin izango duzu aplikazioak instalatu.</string>
-    <string name="toast_warning_secured">Red Moon martxan dagoen bitartean aplikazio honen ezaugarri batzuk ondo ez ibiltzea liteke.</string>
+    <string name="toast_warning_install">Screen Dimmer martxan dagoen bitartean ezin izango duzu aplikazioak instalatu.</string>
+    <string name="toast_warning_secured">Screen Dimmer martxan dagoen bitartean aplikazio honen ezaugarri batzuk ondo ez ibiltzea liteke.</string>
 
     <string name="snackbar_searching_location">Kokapenaren bila</string>
     <string name="snackbar_location_updated">Kokapena aurkitu da!</string>

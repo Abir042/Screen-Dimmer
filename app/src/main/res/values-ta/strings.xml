@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Red Moon</string>
-    <string name="activity_main">Red Moon</string>
-    <string name="activity_shortcut">Red Moon மாற்று</string>
+    <string name="app_name">Screen Dimmer</string>
+    <string name="activity_main">Screen Dimmer</string>
+    <string name="activity_shortcut">Screen Dimmer மாற்று</string>
     <string name="activity_intro">அறிமுகம்</string>
-    <string name="activity_about">Red Moon பற்றி</string>
+    <string name="activity_about">Screen Dimmer பற்றி</string>
     <string name="activity_secure_suspend">விலக்கப்பட்ட பயன்பாடுகளில் நிறுத்து</string>
     <string name="menu_about">பற்றி</string>
 </resources>

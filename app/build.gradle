@@ -32,11 +32,11 @@ android {
     buildToolsVersion '29.0.2'
 
     defaultConfig {
-        applicationId "com.jmstudios.redmoon"
+        applicationId "com.abir.screendimmer"
         minSdkVersion 14
         targetSdkVersion 29
         versionCode 38
-        versionName "3.5.0"
+        versionName "1.0.0"
     }
     buildTypes {
         release {
@@ -82,6 +82,9 @@ dependencies {
     implementation 'com.github.paolorotolo:appintro:4.1.0'
     implementation 'org.greenrobot:eventbus:3.2.0'
     // annotationProcessor 'org.greenrobot:eventbus-annotation-processor:3.0.1'
+
+//    StartApp
+    implementation 'com.startapp:inapp-sdk:4.6.2'
 
 }
 

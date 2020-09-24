@@ -83,7 +83,7 @@
     <string name="set_dialog">Όρισε</string>
     <string name="notification_status_running">Σε λειτουργία. Σε παύση για την εγκατάσταση των apks</string>
     <string name="notification_status_running_no_warning">Σε λειτουργία</string>
-    <string name="activity_about">Σχετικά με το Red Moon</string>
+    <string name="activity_about">Σχετικά με το Screen Dimmer</string>
     <string name="activity_schedule">Πρόγραμμα</string>
     <string name="menu_restore_default_filters">Επαναφορά αρχικών φίλτρων</string>
     <string name="menu_about">Σχετικά</string>
@@ -107,12 +107,12 @@
     <string name="pref_title_translators">Βοηθήστε στη μετάφραση</string>
     <string name="pref_summary_translators">andlydakis</string>
     <string name="pref_title_integration">Ενσωμάτωση με άλλες εφαρμογές</string>
-    <string name="toast_warning_secured">Kάποια χαρακτηριστικά αυτής της εφαρμογής μπορεί να μη λειτουργούν όστο το Red Moon τρέχει.</string>
+    <string name="toast_warning_secured">Kάποια χαρακτηριστικά αυτής της εφαρμογής μπορεί να μη λειτουργούν όστο το Screen Dimmer τρέχει.</string>
     <string name="snackbar_location_updated">Η τοποθεσία βρέθηκε!</string>
     <string name="dialog_title_permission_overlay">Ζωγραφίζετε πάνω από άλλες εφαρμογές</string>
-    <string name="dialog_message_permission_overlay">Επιτρέψτε τη ζωγραφικής πάνω από άλλες εφαρμογές στην επόμενη οθόνη για να επιτρέψετε στο Red Moon να ενεργοποιηθεί.</string>
+    <string name="dialog_message_permission_overlay">Επιτρέψτε τη ζωγραφικής πάνω από άλλες εφαρμογές στην επόμενη οθόνη για να επιτρέψετε στο Screen Dimmer να ενεργοποιηθεί.</string>
     <string name="dialog_title_permission_write_settings">Τροποποίηση ρυθίμσεων συστήματος</string>
-    <string name="dialog_message_permission_write_settings">Επιτρέψτε την τροποποίηση ρυθμίσεων συστήματος στην επόμενη οθόνη για να επιτρέψετε στο Red Moon να αλλάξει το επίπεδο φωτεινότητας.</string>
+    <string name="dialog_message_permission_write_settings">Επιτρέψτε την τροποποίηση ρυθμίσεων συστήματος στην επόμενη οθόνη για να επιτρέψετε στο Screen Dimmer να αλλάξει το επίπεδο φωτεινότητας.</string>
     <string name="filter_name_dim_only">Χαμηλός φωτισμός μόνο</string>
     <string name="pref_entry_button_backlight_filter_dim_level">Χρησιμοποιήστε το φίλτρο επιπέδου χαμηλού φωτισμού</string>
     <string name="pref_entry_button_backlight_turn_off">Απενεργοποίηση</string>
